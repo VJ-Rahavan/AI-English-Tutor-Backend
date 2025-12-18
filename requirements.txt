@@ -4,3 +4,7 @@ python-multipart
 google-generativeai
 langchain
 langchain-google-genai
+python-dotenv
+langchain-groq 
+groq
+
